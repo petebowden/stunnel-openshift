@@ -16,7 +16,7 @@ objects:
       runPolicy: Serial
       source:
         git:
-          uri: 'https://github.com/cpitman/stunnel-openshift.git'
+          uri: 'https://github.com/petebowden/stunnel-openshift.git'
         type: Git
       strategy:
         dockerStrategy:
